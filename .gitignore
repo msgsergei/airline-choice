@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/WebSite/Content/site.css
+/WebSite/Content/site.min.css
+WebSite/Properties/ServiceDependencies/sever01airlinechoice - Web Deploy/profile.arm.json
